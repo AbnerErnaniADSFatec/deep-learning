@@ -28,7 +28,7 @@ Instalando as dependências `r-base 3.6.1`:
 (deep-learning) $ conda install -c conda-forge r-base==3.6.1
 ~~~
 
-Instalando o pacote `ncurses` para o uso da biblioteca `rpy2` para executar _scripts_ em R em um programa Python:
+Instalando o pacote `ncurses` para o uso da biblioteca [`rpy2`](https://rpy2.github.io/doc/latest/html/index.html) para executar _scripts_ em R em um programa Python:
 
 ~~~shell
 (deep-learning) $ conda install -c anaconda ncurses
