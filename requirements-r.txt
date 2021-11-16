@@ -1,6 +1,0 @@
-r-recommended
-r-sits
-r-gdalcubes
-r-rgdal
-r-stars
-r-tensorflow
